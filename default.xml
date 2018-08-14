@@ -701,7 +701,7 @@
   <project path="tools/tradefederation/contrib" name="platform/tools/tradefederation/contrib" groups="pdk,tradefed" />
   <project path="vendor/moto" name="camcory/proprietary_vendor_motorola" remote="github" revision="p" />
   <!-- Device -->
-  <project path="device/moto/shamu" name="camcory/device_moto_shamu" remote="github" revision="p" />
+  <project path="device/moto/shamu" name="Hexa-Project/platform_device_moto_shamu" remote="github" revision="p" />
   <project path="device/moto/shamu-kernel" name="camcory/device_moto_shamu-kernel" remote="github" revision="p" />
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
