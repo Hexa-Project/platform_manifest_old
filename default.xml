@@ -703,6 +703,8 @@
   <!-- Device -->
   <project path="device/moto/shamu" name="Hexa-Project/platform_device_moto_shamu" remote="github" revision="p" />
   <project path="device/moto/shamu-kernel" name="camcory/device_moto_shamu-kernel" remote="github" revision="p" />
+  <project path="kernel/moto/shamu" name="Hexa-Project/android_kernel_moto_shamu" remote="github" revision="p9x" />
+  
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
